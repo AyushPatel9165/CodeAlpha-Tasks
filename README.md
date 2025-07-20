@@ -1,6 +1,11 @@
-🎉 Just completed a *Hangman Game* task for #CodeAlpha! 🎉
-✅ *Task Goal:* Guess the hidden word within 6 incorrect attempts 🔢
-📝 *Task Description:* A text-based game where the player guesses letters to reveal the word. Used key concepts like random, while loops, if-else, and string manipulation.
-💻 *Built With:* Python in VS Code. 👨‍💻
-🔗 *Check Code:* [https://www.linkedin.com/in/ayush-patel-6b175a362]
-🌟 Proud to share my coding journey! #Python #Coding #Internship #CodeAlpha #GitHub
+ ### *Hangman Game*
+A simple text-based Hangman game where the player guesses a word one letter at a time.
+
+#### *Game Details*
+- *Goal*: Guess the word by inputting letters.
+- *Words*: Chosen randomly from 5 predefined words.
+- *Attempts*: 6 incorrect guesses allowed.
+- *Input/Output*: Basic console interaction.
+
+#### *Implementation*
+Uses random, while loop, if-else, strings, and lists.
