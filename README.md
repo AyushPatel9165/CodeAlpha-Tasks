@@ -9,3 +9,10 @@ A simple text-based Hangman game where the player guesses a word one letter at a
 
 #### *Implementation*
 Uses random, while loop, if-else, strings, and lists.
+
+#### *Tools Used*
+- *IDE*: Visual Studio Code (VS Code)
+- *Programming Language*: Python
+- *Version Control & Hosting*: GitHub
+
+#Python #VSCode #GitHub #GameDevelopment #HangmanGame #CodeAlpha
